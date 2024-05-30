@@ -1,7 +1,7 @@
 package com.sample;
 
 public class Welcome {
-	//
+	////
 	String greet;
 	
 	public String welcomeUser(String greet) {
